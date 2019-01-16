@@ -15,3 +15,5 @@ steps to run the project :
    ii)For Android: react-native run-android
 
 Find it helpful ? well leave a star #cheers #happycoding #reactnative
+
+![](ezgif.com-video-to-gif.gif)

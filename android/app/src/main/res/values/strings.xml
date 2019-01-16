@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">sdkIntegratin</string>
+    <string name="facebook_app_id">2017500261877902</string>
+<string name="fb_login_protocol_scheme">fb2017500261877902</string>
+
+</resources>
